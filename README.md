@@ -17,13 +17,13 @@ What this repository covers:
 project-management/
 │
 ├── Lec01/
-│ └── Lec01. Intro - IT Proj Management - TranHungNghiep.pdf
+│   └── Lec01. Intro - IT Proj Management - TranHungNghiep.pdf
 │
 ├── Lec02/
-│ └── Lec02. Process-Lean-Agile - IT Proj Management - TranHungNghiep.pdf
+│   └── Lec02.Process-Lean-Agile - IT Proj Management - TranHungNghiep.pdf
 │
 ├── Lec03/
-│ └── Lec03. Lean-Agile Workshop - IT Proj Management - TranHungNghiep.pdf
+│   └── Lec03.Lean-Agile Workshop - IT Proj Management - TranHungNghiep.pdf
 │
 ├── Lec04/
 │ ├── 24521386.pdf
