@@ -13,6 +13,7 @@ What this repository covers:
 ---
 
 ## Repository Structure
+```
 project-management/
 │
 ├── Lec01/
@@ -52,7 +53,7 @@ project-management/
 │ └── REPORT.docx
 │
 └── README.md
-
+```
 
 ---
 
