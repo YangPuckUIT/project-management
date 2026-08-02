@@ -93,4 +93,4 @@ The `Project/` folder contains:
 
 This repository was created for learning and academic purposes.
 
-AI was used to help improve explanations, documentation, and formatting.
+AI was used to help improve explanations, documentation, and formatting. 
